@@ -32,16 +32,13 @@ I'm a **React** + **Node.js** developer and a Computer Science student with a pa
 ## 📊 GitHub Stats  
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=manfrimjoao&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manfrimjoao&theme=radical&date_format=j%20M%5B%20Y%5D)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfrimjoao&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Contact & Socials  
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:jvmanfrim88@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
-[![GitHub](https://img.shields.io/badge/GitHub-333.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/manfrimjoao)  
 
 ---
 
