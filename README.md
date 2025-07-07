@@ -1,7 +1,7 @@
 # Hi there, I'm João! 👋
 
 ## 🙋‍♂️ About Me  
-I'm a **React** + **Node.js** developer and a Computer Science student with a passion for startups and creative projects. I love building innovative applications, exploring new technologies, and I'm always up for a new coding challenge 🚀.
+I'm a **React** + **Node.js** developer and a Computer Science student with a passion for learning and coding. I love building innovative applications, exploring new technologies, and I'm always up for a new coding challenge 🚀.
 
 ---
 
@@ -14,18 +14,10 @@ I'm a **React** + **Node.js** developer and a Computer Science student with a pa
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+
 
 ---
 
-## 🚀 Featured Projects  
-
-- **[Awesome React App](https://github.com/manfrimjoao/awesome-react-app)** – A full-stack dashboard with real-time data updates. **Tech:** React ⚛️, Node.js 🟢, MongoDB 🍃  
-- **[Node API Boilerplate](https://github.com/manfrimjoao/node-api-boilerplate)** – RESTful API template with authentication and tests. **Tech:** Node.js 🟢, Express 🚀, MySQL 🐬  
-- **[Portfolio Website](https://github.com/manfrimjoao/portfolio)** – My personal portfolio showcasing projects and blogs. **Tech:** React ⚛️, TypeScript 🌀  
-
-<!-- Replace the above with your actual projects, descriptions and links. Add or remove items as needed. -->
 
 ---
 
