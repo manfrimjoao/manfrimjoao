@@ -18,9 +18,6 @@ I'm a **React** + **Node.js** developer and a Computer Science student with a pa
 
 ---
 
-
----
-
 ## 📊 GitHub Stats  
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=manfrimjoao&show_icons=true&theme=radical)  
